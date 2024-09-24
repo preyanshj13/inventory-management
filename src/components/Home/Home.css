@@ -1,0 +1,10 @@
+.heading{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+*{
+    /* background: linear-gradient(brown, green),transparent */
+}

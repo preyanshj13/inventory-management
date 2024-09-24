@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": "ABu0yT7",
+      
+      "productName": "Cocopeat block 5kg",
+      "quantity": "22",
+      "buyPrice": "22",
+      "seller": "vn",
+      "date": "2024-08-10",
+      "amount": 484,
+      "transaction": "Bought"
+    },
+    {
+      "id": "9nA-WW2",
+      "productName": "Seed Tray",
+      "quantity": "100",
+      "buyPrice": "10",
+      "seller": "ba",
+      "date": "2022-03-12",
+      "amount": 1000,
+      "transaction": "Bought"
+    },
+    {
+      "id": "4UiS1i7",
+      "productName": "Vermiculite",
+      "quantity": "100",
+      "buyPrice": "28",
+      "seller": "mg",
+      "date": "2024-07-23",
+      "transaction": "Bought",
+      "amount": 2800
+    },
+    {
+      "id": "hdsWreU",
+      "productName": "Sea-weed Oil",
+      "quantity": "10",
+      "sellPrice": "10",
+      "buyer": "cbc",
+      "date": "1821-04-19",
+      "amount": 100,
+      "transaction": "Sold"
+    },
+    {
+      "id": "VsOUfjM",
+      "productName": "Cocopeat block 5kg",
+      "quantity": "9",
+      "buyPrice": "9",
+      "seller": "ii",
+      "date": "2024-07-21",
+      "amount": 81,
+      "transaction": "Bought"
+    }
+  ]
+}

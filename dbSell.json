@@ -1,0 +1,67 @@
+{
+  "inventory": [
+    {
+      "id": "1",
+      "productName": "Cocopeat block 5kg",
+      "quantity": "0",
+      "buyPrice": "33",
+      "seller": "abc"
+    },
+    {
+      "id": "2",
+      "productName": "Vermi-Compost 5kg",
+      "quantity": "0",
+      "buyPrice": "37",
+      "seller": "abc"
+    },
+    {
+      "id": "3",
+      "productName": "Vermi-Compost 10kg",
+      "quantity": "0",
+      "buyPrice": "67474",
+      "seller": "abccc"
+    },
+    {
+      "id": "4",
+      "productName": "Neem Khali 1kg",
+      "quantity": "0",
+      "buyPrice": "10",
+      "seller": "preyansh"
+    },
+    {
+      "id": "5",
+      "productName": "Neem Oil",
+      "quantity": "0",
+      "buyPrice": "65",
+      "seller": "abccc"
+    },
+    {
+      "id": "6",
+      "productName": "Sea-weed Oil",
+      "quantity": "0",
+      "buyPrice": "07785",
+      "seller": "abccc"
+    },
+    {
+      "id": "7",
+      "productName": "Vermiculite",
+      "quantity": "0",
+      "buyPrice": "767",
+      "seller": "preyansh"
+    },
+    {
+      "id": "8",
+      "productName": "Perlite",
+      "quantity": "0",
+      "buyPrice": "767",
+      "seller": "preyansh"
+    },
+    {
+      "id": "9",
+      "productName": "Seed Tray",
+      "quantity": "0",
+      "buyPrice": "767",
+      "seller": "preyansh"
+    }
+  ]
+}
